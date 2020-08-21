@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>test-blog</title>
+    <url>/2020/08/19/test-blog/</url>
+    <content><![CDATA[<p>这是我的第一篇博文，欢迎关注！</p>
+]]></content>
+      <categories>
+        <category>test</category>
+      </categories>
+      <tags>
+        <tag>jQuery</tag>
+        <tag>test</tag>
+      </tags>
+  </entry>
+</search>
